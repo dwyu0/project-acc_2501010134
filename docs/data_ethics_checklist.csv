@@ -1,0 +1,5 @@
+prinsip_etika,status,keterangan
+Minimalisasi Data,Terpenuhi,"Nomor telepon, email, dan data pribadi sengaja tidak diambil dari tag OSM."
+Legalitas Sumber,Terpenuhi,Menggunakan Overpass API publik secara resmi tanpa scraping sumber terlarang (OTA/Google Maps).
+Batas Beban Server (Rate Limiting),Terpenuhi,Menjalankan query secara terbatas dan menerapkan jeda/retry untuk menjaga beban server Overpass.
+Atribusi Data,Terpenuhi,Mencantumkan atribusi wajib © OpenStreetMap contributors di README dan laporan.

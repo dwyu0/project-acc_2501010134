@@ -1,0 +1,13 @@
+{
+    "project": "BIFP-243 Akuisisi Data Akomodasi Kintamani",
+    "institution": "INSTIKI",
+    "student_id": "2501010134",
+    "acquisition_timestamp": "2026-11-11T12:13:17.059520",
+    "data_source": {
+        "provider": "OpenStreetMap",
+        "api": "Overpass API",
+        "endpoint": "https://overpass-api.de/api/interpreter",
+        "license": "ODbL (Open Database License)"
+    },
+    "total_records": 32
+}

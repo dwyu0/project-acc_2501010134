@@ -1,0 +1,3 @@
+kategori_akomodasi,jumlah_desa_bps,total_titik_osm,keterangan
+Hotel,4,16,BPS menghitung desa berfasilitas; OSM menghitung titik fisik riil.
+Penginapan / Guest House,12,15,BPS menghitung desa berfasilitas penginapan; OSM mencakup titik mandiri.
